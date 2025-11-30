@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# LifeFlow-Ai
-=======
 # LifeFlow AI: A Unified Agent Ecosystem
 
 **LifeFlow AI** is a multi-agent machine learning system designed to automate daily tasks, support communities, enhance business workflows, and encourage creative experimentation.
@@ -57,4 +54,3 @@ The project includes synthetic datasets generated for demonstration:
 
 ---
 *Built for the Kaggle Capstone Project.*
->>>>>>> 4dd7015 (Initial commit: LifeFlow AI project)
